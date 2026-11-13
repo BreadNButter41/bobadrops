@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(243, 183, 33); 
+}
+
+h1{
+    font: size 30px;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-size: 15;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    border: 2px solid black;
+    width: 25%; 
+    box-shadow: 0 4px 8px;
+}
