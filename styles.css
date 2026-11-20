@@ -1,7 +1,6 @@
-
-
-
 @import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+
+
 .short-stack-regular {
   font-family: "Short Stack", cursive;
   font-weight: 400;
@@ -15,13 +14,13 @@ body {
 h1{
     font: size 30px;
     color:black;
-    font-family: 'short-stack-regular'
+    font-family: 'Caveat'
 }
 
 p{
     font-size: 15;
     color:black;
-    font-family: 'short-stack-regular'
+    font-family: 'Caveat';
     background-color: aliceblue;
 }
 
