@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+
 body {
     background-color: rgb(243, 183, 33); 
 }
@@ -5,13 +8,14 @@ body {
 h1{
     font: size 30px;
     color:black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: '.short-stack-regular'
 }
 
 p{
     font-size: 15;
     color:black;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: '.short-stack-regular'
+    background-color: aliceblue;
 }
 
 img {
